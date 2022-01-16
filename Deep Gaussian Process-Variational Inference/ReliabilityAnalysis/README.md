@@ -1,1 +1,1 @@
-Application of Doubly Stochastic DGP with Reliability Analysis, demo shows results on the four-branch function. More study is required to nderstand its approximate Gaussian posterior with the acquisition functions.
+Application of Doubly Stochastic DGP with Reliability Analysis, demo shows results on the four-branch function. More study is required to understand its approximate Gaussian posterior with the acquisition functions.
