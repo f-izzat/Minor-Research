@@ -1,5 +1,5 @@
 # Minor-Research
-Results and Code written for the Minor research course during my Masters Degree. 
+Code written for the Minor research course during my Masters Degree with snippets of results produced provided. 
 
 This includes experiments on 
 
